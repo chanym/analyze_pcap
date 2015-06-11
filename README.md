@@ -20,6 +20,7 @@ http://ZZZZ/ZZZ/
 
 2) IP: XXX.XXX.XXX.XXX
 http://YYY/YYY/YYY/YYY?a=sc&r=1&err=1:
-             Webutation: malicious site
+
+            Webutation: malicious site
              
 
